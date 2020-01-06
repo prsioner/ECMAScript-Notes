@@ -1,0 +1,10 @@
+ECMAScript从一开始就是针对 JavaScript 语言制定的一个标准，但是之所以不叫 JavaScript，是因为只有 Netscape 公司可以合法地使用 JavaScript 这个名字JavaScript 本身也已经被 Netscape 公司注册为商标
+
+ES6 一共有 6 种声明变量的方法:
+var、let、function、const、import、class
+1.let
+用来声明变量。它的用法类似于var，但是所声明的变量，只在let命令所在的代码块内有效
+
+2.const
+const声明一个只读的常量。一旦声明，常量的值就不能改变
+const一旦声明变量，就必须立即初始化，不能留到以后赋值
